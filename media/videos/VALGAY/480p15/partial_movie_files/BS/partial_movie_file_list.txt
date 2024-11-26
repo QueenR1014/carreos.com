@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/USUARIO/Documents/WTF IS PROGRAMMING 2.0/UR CLASES/carreando a valeria/media/videos/VALGAY/480p15/partial_movie_files/BS/1185818338_3847446670_223132457.mp4'
+file 'file:C:/Users/USUARIO/Documents/WTF IS PROGRAMMING 2.0/UR CLASES/carreando a valeria/media/videos/VALGAY/480p15/partial_movie_files/BS/624642324_3890345977_1231200061.mp4'
+file 'file:C:/Users/USUARIO/Documents/WTF IS PROGRAMMING 2.0/UR CLASES/carreando a valeria/media/videos/VALGAY/480p15/partial_movie_files/BS/624642324_1258477390_3166285602.mp4'
+file 'file:C:/Users/USUARIO/Documents/WTF IS PROGRAMMING 2.0/UR CLASES/carreando a valeria/media/videos/VALGAY/480p15/partial_movie_files/BS/624642324_2777107436_3285887685.mp4'
+file 'file:C:/Users/USUARIO/Documents/WTF IS PROGRAMMING 2.0/UR CLASES/carreando a valeria/media/videos/VALGAY/480p15/partial_movie_files/BS/624642324_3452321603_2658489618.mp4'
+file 'file:C:/Users/USUARIO/Documents/WTF IS PROGRAMMING 2.0/UR CLASES/carreando a valeria/media/videos/VALGAY/480p15/partial_movie_files/BS/624642324_1148985011_2733473241.mp4'
+file 'file:C:/Users/USUARIO/Documents/WTF IS PROGRAMMING 2.0/UR CLASES/carreando a valeria/media/videos/VALGAY/480p15/partial_movie_files/BS/624642324_3977039964_3966228961.mp4'
+file 'file:C:/Users/USUARIO/Documents/WTF IS PROGRAMMING 2.0/UR CLASES/carreando a valeria/media/videos/VALGAY/480p15/partial_movie_files/BS/624642324_255102487_2982773439.mp4'
